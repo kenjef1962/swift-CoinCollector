@@ -1,0 +1,68 @@
+{
+    "Quarters": [
+                {
+                "number": 1,
+                "year": 1999,
+                "state": "Deleware",
+                "stateAbbreviation": "DE",
+                "statehoodDate": "December 7, 1787",
+                "releaseDate": "January 1, 1999",
+                "mintageTotal": "774,824,000",
+                "designElements": "Caesar Rodney on horseback\nCaptions: 'The First State', 'Caesar Rodney'",
+                "engraver": "William Cousins",
+                "additionalInfo": "Caesar Rodney (October 7, 1728 – June 26, 1784) was an American lawyer and politician from St. Jones Neck in Dover Hundred, Kent County, Delaware, east of Dover. He was an officer of the Delaware militia during the French and Indian War and the American Revolution, a Continental Congressman from Delaware, a signer of the Declaration of Independence, and President of Delaware during most of the American Revolution."
+                },
+                
+                {
+                "number": 2,
+                "year": 1999,
+                "state": "Pennsylvania",
+                "stateAbbreviation": "PA",
+                "statehoodDate": "December 12, 1787",
+                "releaseDate": "March 8, 1999",
+                "mintageTotal": "707,332,000",
+                "designElements": "Commonwealth statue, state outline, keystone\nCaption: 'Virtue, Liberty, Independence'",
+                "engraver": "John Mercanti",
+                "additionalInfo": "Commonwealth is a 14-foot-6-inch (4.42 m) gilded statue atop the dome of the Pennsylvania State Capitol in Harrisburg, Pennsylvania. It is nicknamed Miss Penn and the Spirit of the Commonwealth. It is also sometimes called Letitia, after the daughter of William Penn, the assumed inspiration for the statue."
+                },
+                
+                {
+                "number": 3,
+                "year": 1999,
+                "state": "New Jersey",
+                "stateAbbreviation": "NJ",
+                "statehoodDate": "December 18, 1787",
+                "releaseDate": "May 17, 1999",
+                "mintageTotal": "662,228,000",
+                "designElements": "Washington Crossing the Delaware, which includes George Washington (standing) and James Monroe (holding the flag)\nCaption: 'Crossroads of the Revolution'",
+                "engraver": "Alfred Maletsky",
+                "additionalInfo": ""
+                },
+                
+                {
+                "number": 4,
+                "year": 1999,
+                "state": "Georgia",
+                "stateAbbreviation": "GA",
+                "statehoodDate": "January 2, 1788",
+                "releaseDate": "July 19, 1999",
+                "mintageTotal": "939,932,000",
+                "designElements": "Peach, live oak (state tree) sprigs, state outline\nBanner with text: 'Wisdom, Justice, Moderation' (the state motto)",
+                "engraver": "T. James Ferrell",
+                "additionalInfo": "Quercus virginiana, also known as the southern live oak, is an evergreen oak tree native to the southeastern United States. Though many other species are loosely called live oak, the southern live oak is particularly iconic of the Old South. Many very large and old specimens of live oak can be found today in the deep southern United States."
+                },
+                
+                {
+                "number": "5",
+                "year": 1999,
+                "state": "Connecticut",
+                "stateAbbreviation": "CT",
+                "statehoodDate": "January 9, 1788",
+                "releaseDate": "October 12, 1999",
+                "mintageTotal": "1,346,624,000",
+                "designElements": "Charter Oak\nCaption: 'The Charter Oak'",
+                "engraver": "T. James Ferrell",
+                "additionalInfo": "The Charter Oak was an unusually large white oak tree growing on Wyllys Hyll in Hartford, Connecticut in the United States, from around the 12th or 13th century until it fell during a storm on August 21, 1856. According to tradition, Connecticut's Royal Charter of 1662 was hidden within the hollow of the tree to thwart its confiscation by the English governor-general. The oak became a symbol of American independence.   In addition to appearing on the commmemorated state quarter, in 1935, for Connecticut's tercentennial, it was also depicted on both a commemorative half dollar and a postage stamp."
+                }
+    ]
+}
